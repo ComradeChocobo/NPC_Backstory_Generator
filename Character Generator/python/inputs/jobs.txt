@@ -1,0 +1,135 @@
+Prostitute
+Maid
+Blacksmith
+Fletcher (arrow maker)
+Cook
+Baker
+Knight
+Noble
+Farmer
+Miller
+Miner
+Scribe
+Monk/Nun
+Priest
+Brewer
+Butcher
+Carpenter
+Mason (stone worker)
+Tailor
+Weaver
+Tanner (leather worker)
+Cobbler (shoe maker)
+Barber
+Surgeon (often a barber as well)
+Apothecary
+Herbalist
+Alchemist
+Astrologer
+Artist
+Sculptor
+Glassblower
+Goldsmith/Silversmith
+Armorer
+Bowyer (bow maker)
+Cartwright (cart maker)
+Wheelwright
+Fisherman
+Sailor
+Merchant
+Tavern Keeper
+Innkeeper
+Jester
+Minstrel
+Troubadour
+Illuminator (manuscript illustrator)
+Chandler (candle maker)
+Cooper (barrel maker)
+Smith (working with metal in various forms)
+Jeweler
+Locksmith
+Clockmaker
+Herald
+Page
+Squire
+Falconer
+Huntsman
+Forester
+Shepherd
+Dyer (fabric coloring)
+Potter
+Roofer
+Thatcher (making thatched roofs)
+Vintner (wine maker)
+Cheesemaker
+Charcoal Burner
+Clerk
+Copyist
+Lector (reader in religious services)
+Reeve (estate manager)
+Bailiff
+Messenger
+Watchman
+Town Crier
+Gardener
+Physician
+Plowman
+Parchment Maker
+Bookbinder
+Spice Merchant
+Leatherworker
+Groom (caring for horses)
+Stablehand
+Wainwright (wagon maker)
+Architect
+Launderer
+Fishmonger (seller of fish)
+Grocer
+Haberdasher (seller of clothing items)
+Ironmonger (seller of iron goods)
+Mercer (cloth merchant)
+Peddler (travelling vendor)
+Perfumer
+Ropemaker
+Soapmaker
+Tiler (making and laying tiles)
+Upholsterer
+Vellum Maker
+Water Carrier
+Woodcutter
+Lumberjack
+Acrobat
+Animal Trainer
+Bearwarden (keeper of bears)
+Fool
+Heraldic Artist
+Historian
+Juggler
+Linguist
+Philosopher
+Playwright
+Poet
+Scholar
+Sculptor
+Seamstress
+Spice Merchant
+Storyteller
+Street Vendor
+Teacher
+Tutor
+University Professor
+Mage
+Wizard
+Sage
+Begger
+Sex Worker
+Servent
+Druid
+Priest
+Drug Dealer
+Criminal
+Crime Lord
+Cultist
+Assassins
+Miner
+Grave Keeper
